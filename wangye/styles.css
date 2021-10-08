@@ -1,0 +1,65 @@
+body{
+    width: 1500px;
+}
+img {
+ float: left;
+}
+div.para1-end {
+ clear: both;
+}
+div.para1{
+    color: white;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+    background-color: black;
+}
+#center {
+ display: table;
+ width: 1200px;
+}
+#nav, #para1 {
+ display: table-cell;
+}
+#para1 {
+ width: 800px;
+}
+div.para2{
+    color: white;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+    background-color: black;
+}
+img {
+ float: left;
+}
+div.para2-end {
+ clear: both;
+}
+div.para3{
+    color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    background-color: white;
+}
+img {
+ float: left;
+}
+div.para3-end {
+ clear: both;
+}
+#center2 {
+ display: table;
+ width: 1400px;
+}
+#para2, #para3 {
+ display: table-cell;
+}
+#para2 {
+ width: 700px;
+}
